@@ -802,6 +802,7 @@ img {
 }
 
 .footer-section-addres {
+   flex-grow: 1;
   margin-right: 70px;
 }
 
